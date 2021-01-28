@@ -1,0 +1,5 @@
+/Users/CarterDuncan/Desktop/chromedriver
+https://www.tentree.com/collections/womens-pants/products/womens-lorax-bamone-sweatpant?METEORITE%20BLACK
+https://www.tentree.com/collections/womens-pants/products/inmotion-high-rise-legging?METEORITE%20BLACK
+https://www.tentree.com/collections/womens-pants/products/women-french-terry-jogger?OLIVE%20NIGHT%20GREEN
+https://www.tentree.com/collections/womens-pants/products/womens-outsider-sweatpants?METEORITE%20BLACK
